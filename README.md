@@ -1,8 +1,6 @@
 # Simulador-de-investimento-de-fundo-imobili-rio
 Simulador de investimento de fundo imobiliário
 
-# -*- coding: utf-8 -*-
-"""
 Simulador_FII_5_Anos_Painel (geração via Python)
 -------------------------------------------------
 Este script cria uma planilha Excel completa para simulação de investimentos em FIIs/REITs,
